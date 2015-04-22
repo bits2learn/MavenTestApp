@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* com/nchapa/bits2learn/App
+web: java -cp target/classes:target/dependency/* com.nchapa.bits2learn.App
